@@ -33,6 +33,7 @@ cd node-auth-system
 npm install
 Запустите сервер:
 ```
+2.
 ```bash
 npm run dev
 ```
