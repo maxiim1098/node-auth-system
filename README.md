@@ -1,4 +1,4 @@
-API Endpoints
+# API Endpoints
 Аутентификация
 Регистрация пользователя
 URL: POST /api/auth/register
