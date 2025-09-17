@@ -28,12 +28,11 @@
 git clone <ваш-репозиторий>
 cd node-auth-system
 ```
-
+2. Установите зависимости:
 ```bash
 npm install
-Запустите сервер:
 ```
-2.
+3. Запустите сервер:
 ```bash
 npm run dev
 ```
